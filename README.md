@@ -4,9 +4,9 @@
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=vivanchauhan&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-    <a href="[https://vivanchauhan.vercel.app/](https://vivan-portfolio-one.vercel.app/)">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
-    </a>
+    <a href="https://vivan-portfolio-one.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
+</a>
   </div>
 </div>
 
