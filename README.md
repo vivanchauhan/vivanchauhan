@@ -4,7 +4,7 @@
 
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=vivanchauhan&color=green&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-    <a href="https://vivanchauhan.vercel.app/">
+    <a href="[https://vivanchauhan.vercel.app/](https://vivan-portfolio-one.vercel.app/)">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
     </a>
   </div>
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivan-chauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivan-chauhan](https://www.linkedin.com/in/vivan-chauhan-b3259a15b/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vivanchauhann)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vivanchauhann)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivanchauhan)
@@ -86,8 +86,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vivanchauhan&icon=4&color=1" />
-</div>
+//<div align="center">
+  //<img src="https://visitcount.itsvg.in/api?id=vivanchauhan&icon=4&color=1" />
+//</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
